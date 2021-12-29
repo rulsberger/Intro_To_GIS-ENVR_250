@@ -1,14 +1,16 @@
 # Intro_To_GIS-ENVR_250
+
+
+## Details
 Lectures Materials for ENVR 250
 
-All files are generated using python notebooks and are compiled to slides using nbconvert
-
+## Anticipated Schedule
 **Week 1:**  
-Class 1 - Intro to Class
+Class 1 - Intro   
 Class 2 - What is GIS?  
 
 **Week 2:**  
-Class 3 - Basics of GIS Data
+Class 3 - Basics of GIS Data  
 Class 4 - How to Read a Map  
 
 **Week 3:**  
