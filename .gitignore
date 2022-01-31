@@ -6,3 +6,5 @@ student_details/
 # ArcGIS Files
 .backups/
 ImportLog/
+*.gdb/
+*.tbx
