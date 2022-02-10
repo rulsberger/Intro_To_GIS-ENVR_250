@@ -8,3 +8,8 @@ student_details/
 ImportLog/
 *.gdb/
 *.tbx
+
+# Lecture Videos
+*.mp4
+*.conf
+*.m4a
