@@ -2,12 +2,14 @@
 .ipynb_checkpoints
 data/
 student_details/
+__MACOSX/*
 
 # ArcGIS Files
 .backups/
 ImportLog/
 *.gdb/
 *.tbx
+
 
 # Lecture Videos
 *.mp4
