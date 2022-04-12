@@ -10,8 +10,11 @@ ImportLog/
 *.gdb/
 *.tbx
 *.csv
+*.cfs
 
 # Lecture Videos
 *.mp4
 *.conf
 *.m4a
+
+CourseMaterials/Labs/Digitizing_Lab/Index/*
