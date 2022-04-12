@@ -9,7 +9,7 @@ __MACOSX/*
 ImportLog/
 *.gdb/
 *.tbx
-
+*.csv
 
 # Lecture Videos
 *.mp4
